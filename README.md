@@ -1,2 +1,2 @@
-# fanariventures.com
-Fanari Ventures website
+# farosincepta.com
+Faros Incepta website
